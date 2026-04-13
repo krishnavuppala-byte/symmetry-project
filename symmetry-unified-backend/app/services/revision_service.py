@@ -100,4 +100,4 @@ def compare_revisions(rev1: Revision, rev2: Revision) -> dict:
         "revid_2": rev2.revid,
         "added_words": list(added)[:20],
         "removed_words": list(removed)[:20],
-    }
+    }C:\Users\V Krishna Madhuri\symmetry-project\symmetry-unified-backend
